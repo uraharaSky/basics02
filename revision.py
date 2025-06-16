@@ -78,6 +78,6 @@
 # else:
 #     print("It is not a Palindrome")
 
-x = 10
-for i in range(10):
-    print("*")
+
+
+print('hello world')
